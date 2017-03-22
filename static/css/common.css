@@ -1,0 +1,41 @@
+.wrapper > .container {
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem;
+}
+
+.wrapper .container {
+  max-width: 80rem;
+}
+
+.message {
+  font-weight: bold;
+  color: red;
+}
+
+.over {
+  border: 2px dashed #000;
+}
+
+.unit_0 {
+  background-color: #cccccc;
+}
+
+.unit_1 {
+  background-color: #ffaaaa;
+}
+
+.unit_2 {
+  background-color: #aaaaff;
+}
+
+.unit_3 {
+  background-color: #aaffaa;
+}
+
+.unit_4 {
+  background-color: #ffffaa;
+}
+
+.unit_5 {
+  background-color: #aaffff;
+}

@@ -1,0 +1,55 @@
+h3 .horizontal {
+  vertical-align: middle;
+}
+
+h3 input {
+  margin: 0;
+}
+
+.horizontal {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.deck-edit .horizontal {
+  padding: 0 10px;
+}
+
+.deck-edit .left-arrow {
+  height: 540px;
+  background-image: url("../../static/img/left_arrow.png");
+}
+
+ul.unit-list {
+  list-style-type: none;
+  height: 580px;
+}
+
+ul.selectable-unit-list {
+  overflow-y: scroll;
+}
+
+.unit {
+  height: 100px;
+  width: 200px;
+}
+
+.unit .unit-inner {
+  position:relative;
+  height: 100%;
+  padding: 10px;
+}
+
+.unit .remove {
+  position:absolute;
+  height: 20px;
+  width: 20px;
+  background-color: #afceff;
+  border-radius: 2px;
+  text-align: center;
+  top: 2px;
+  right: 2px;
+  cursor: default;
+}
+
+
